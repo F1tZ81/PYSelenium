@@ -1,4 +1,4 @@
-Small Example of Pyhton Selenium
+Small Example of Python Selenium
 
 # Install
 ## Windows
