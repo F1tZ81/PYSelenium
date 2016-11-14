@@ -34,6 +34,9 @@ from the command line type
 
 # More information
 [Seleium Pyton Bindings](http://selenium-python.readthedocs.io/index.html)
+
 [Seleium Site](http://www.seleniumhq.org/projects/webdriver/)
+
 [VS Code](https://code.visualstudio.com/)
+
 [Git](https://git-scm.com/)
