@@ -8,6 +8,8 @@ Install Python from [Windows Python Site](http://www.python.org/download)
 In any command line type
 
     pip install selenium
+    
+Mkae sure you have [Chrome Browser](https://www.google.com/chrome/browser/desktop/) installed
 
 # Example
 Create a file called googletest.py place this example code in that file:
