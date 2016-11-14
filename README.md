@@ -1,4 +1,5 @@
-# PYSelenium
+Small Example of Pyhton Selenium
+
 # Install
 ## Windows
 Install Python from [Windows Python Site](http://www.python.org/download)
