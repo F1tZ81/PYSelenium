@@ -42,6 +42,8 @@ from the command line type
     python googletest.py
 
 # More information
+[Python Docs](https://docs.python.org/3/)
+
 [Seleium Python Bindings](http://selenium-python.readthedocs.io/index.html)
 
 [Seleium Site](http://www.seleniumhq.org/projects/webdriver/)
